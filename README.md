@@ -1,7 +1,7 @@
-[MasterHead](https://nepalseocompany.com/uploads/1601303461againsoft-web-development-in-bangladesh.jpg)
+[![MasterHead](https://nepalseocompany.com/uploads/1601303461againsoft-web-development-in-bangladesh.jpg)]
 <h1 align="center">Hi 👋, I'm SANTHOSH KUMAR S</h1>
 <h3 align="center">Ready to contribute my skills, enthusiasm, and fresh perspective to a dynamic organization</h3>
-<img align = "right" alt = "Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align = "right" alt = "Coding" width="250" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshkumars2605&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshkumars2605" /> </p>
 
