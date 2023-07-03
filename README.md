@@ -1,4 +1,4 @@
-[![MasterHead](https://nepalseocompany.com/uploads/1601303461againsoft-web-development-in-bangladesh.jpg)]
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)](https://github.com/santhoshkumars2605)
 <h1 align="center">Hi 👋, I'm SANTHOSH KUMAR S</h1>
 <h3 align="center">Ready to contribute my skills, enthusiasm, and fresh perspective to a dynamic organization</h3>
 <img align = "right" alt = "Coding" width="250" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
