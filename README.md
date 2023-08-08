@@ -1,7 +1,9 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)](https://github.com/santhoshkumars2605)
 <h1 align="center">Hi 👋, I'm SANTHOSH KUMAR S</h1>
 <h3 align="center">Ready to contribute my skills, enthusiasm, and fresh perspective to a dynamic organization</h3>
-<center><img align = "center" alt = "Coding" width="60%" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"></center>
+<center>
+  <img align = "center" alt = "Coding" width="60%" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif">
+</center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshkumars2605&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshkumars2605" /> </p>
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **santhoshkumars2605@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kfqyk5rkAw_OTLzIImK3H-XBfrjhcUZc/view?usp=sharing](https://drive.google.com/file/d/1kfqyk5rkAw_OTLzIImK3H-XBfrjhcUZc/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kfqyk5rkAw_OTLzIImK3H-XBfrjhcUZc/view?usp=sharing](https://drive.google.com/file/d/146sU78ATOgHIq0r2aV-vBD8jhxmV9S-o/view?usp=sharing)
 
 - Hobbies **Photography,Technical Content Creator**
 
